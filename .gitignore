@@ -1,0 +1,6 @@
+.venv/
+server.log
+.DS_Store
+__pycache__/
+app/__pycache__/
+*.gguf
